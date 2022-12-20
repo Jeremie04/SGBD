@@ -1,0 +1,7 @@
+Ranto,18,garcon,Madagascar
+Nancy,18,fille,Madagascar
+Finoana,17,fille,Madagascar
+Matt,14,garcon,France
+Angoty,16,fille,Madagascar
+Nancy,18,fille,Madagascar
+Eduardo,51,garcon,Palestine
